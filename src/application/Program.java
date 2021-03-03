@@ -19,5 +19,6 @@ public class Program {
 		list.forEach(Product::nonStaticPriceUpdate);
 
 		list.forEach(System.out::println);
+		
 	}
 }
